@@ -1,10 +1,5 @@
 #include ".assignment/test.h"
-struct Result
-{
-    int min;
-    int mid;
-    int max;
-};
+
 
 // 比较三个数的大小
 void CompareThreeNumbers(int a, int b, int c, Result &result)
